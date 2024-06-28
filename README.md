@@ -28,13 +28,13 @@ python3 Run.py
 
 <a href="https://github.com/FarhadJoya907"><img src="https://img.shields.io/github/followers/FarhadJoya907?label=followers&style=social"/></a>
 
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100079137907198)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100079137907198)
 
-[![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/100079137907198)
+[![Messenger](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/100079137907198)
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Farhad.Joya-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93780860907)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Farhad.Joya-deepgreen?style=flat-square&logo=Telegram)](https://t.me/Style_907)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-deepgreen?style=flat-square&logo=Telegram)](https://t.me/Style_907)
 
 </p>
 <h1 align="center">
