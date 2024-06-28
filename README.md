@@ -34,6 +34,8 @@ python3 Run.py
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Farhad.Joya-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93780860907)
 
+[![Whatsapp](https://img.shields.io/badge/Telegram-Farhad.Joya-deepgreen?style=flat-square&logo=whatsapp)](https://t.me/Style_907)
+
 </p>
 <h1 align="center">
   <b>Hello Programmers!<b> <a href="https://t.me/Style_907" target="blank">Farhad Joya </a> Is Here
