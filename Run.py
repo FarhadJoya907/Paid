@@ -19,6 +19,3 @@ if bit == '64bit':
     print("\n\x1b[1;92m Congratulations ! Your Device Support This Tool")
     from FKING import menu___
     menu___()
-elif bit == '32bit':
-    from FKING 32 import menu___
-    print("\n\x1b[1;92m Congratulations ! Your Device Support This Tool")
